@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerChar_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerCont_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Map/TestLevel.umap",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/ArenaMode.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Map/ArenaMap.umap",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerProj_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/Projectile_MAt.uasset"
+			]
+		}
+	]
+}
