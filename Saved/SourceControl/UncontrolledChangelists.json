@@ -7,11 +7,23 @@
 			"files": [
 				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerChar_BP.uasset",
 				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerCont_BP.uasset",
-				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Map/TestLevel.umap",
 				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/ArenaMode.uasset",
 				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Map/ArenaMap.umap",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/Projectile_MAt.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/AIChar_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/Tasks/Wander.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/AI_BT.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/AICont_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/AI_BB.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/AIProj_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/Tasks/Focus.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/Tasks/MovetoLocation.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/Tasks/Shoot.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/Tasks/StopShooting.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/AI/PlayerProj_BP.uasset",
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Spawner/SpawnerPoint.uasset",
 				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/PlayerProj_BP.uasset",
-				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Player/Projectile_MAt.uasset"
+				"/Users/amyaoverton/Documents/Unreal Projects/FinalProject/Content/Map/TestLevel.umap"
 			]
 		}
 	]
